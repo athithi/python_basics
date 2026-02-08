@@ -1,0 +1,7 @@
+l=int(input("enter:")
+m=int(input("enter:"))
+print("sum=",l+m)
+print("diff=",l-m)
+print("mul=",l*m)
+print("div=",l/m)
+print("mod=",l%m)
